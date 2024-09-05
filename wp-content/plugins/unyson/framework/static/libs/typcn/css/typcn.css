@@ -5,11 +5,11 @@
   font-family: 'typicons';
   font-weight: normal;
   font-style: normal;
-  src: url('https://melmo.ir/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot');
-  src: url('https://melmo.ir/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot#iefix') format('embedded-opentype'),
-       url('https://melmo.ir/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.woff') format('woff'),
-       url('https://melmo.ir/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.ttf') format('truetype'),
-       url('https://melmo.ir/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.svg#typicons') format('svg');
+  src: url('https://melvinmokhtari.com/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot');
+  src: url('https://melvinmokhtari.com/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot#iefix') format('embedded-opentype'),
+       url('https://melvinmokhtari.com/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.woff') format('woff'),
+       url('https://melvinmokhtari.com/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.ttf') format('truetype'),
+       url('https://melvinmokhtari.com/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.svg#typicons') format('svg');
 }
  
 /* :before psuedo-selector inserts and styles icon */
